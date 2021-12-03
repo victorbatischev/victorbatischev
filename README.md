@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victorbatischev
-- 👀 I’m interested in software evelopment.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning Angular and Node.js
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: email - vitek.batishev97@gmail.com
